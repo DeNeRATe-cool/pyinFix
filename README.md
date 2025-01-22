@@ -1,4 +1,6 @@
-![app](./resources/icons/app_icon_128.png)
+<div style="text-align: center;">
+  <img src="./resources/icons/app_icon_128.png" alt="app">
+</div>
 
 # pyinFix
 
@@ -11,6 +13,7 @@
 ![example](./images/example.jpg)
 
 > PS: 软件下载在Release中~~~🌹
+> 
 > PS: 使用时若有将软件转移文件夹的需求，建议生成快捷方式进行移动哟~
 >
 > 有任何修改意见和反馈都可以与我联系😘
